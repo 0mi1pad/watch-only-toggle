@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Watch Only</string>
+    <string name="accessibility_service_description">Lets the Watch Only shortcut find and tap the Battery, Watch only, and Turn on options in Settings for you.</string>
+</resources>
